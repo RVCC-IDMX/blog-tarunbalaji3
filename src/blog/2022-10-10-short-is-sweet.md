@@ -1,7 +1,7 @@
 ---
 title: Short is Sweet
 author: Tarun Balaji Ravi
-description: "Article on the usefulness of short paragraphs "
+description: "The usefulness of short paragraphs "
 date: 2022-10-10T00:03:04.918Z
 tags:
   - post
