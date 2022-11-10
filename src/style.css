@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Glacial Indifference";
+  font-style: normal;
+  src: url("/assets/fonts/GlacialIndifference-Regular.otf");
+  font-weight: 300 800;
+}
+
+
 :root {
   --fs-300: 0.9375rem;
   --fs-400: 1.0625rem;
@@ -5,8 +13,8 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  --ff-body: "Glacial Indifference", sans-serif;
+  --ff-heading: "Glacial Indifference", sans-serif;
 
   --fw-400: 400;
   --fw-700: 700;
